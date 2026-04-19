@@ -16,4 +16,4 @@ jobs:
       - uses: googleapis/release-please-action@v4
         with:
           # This specifies the strategy for your project (e.g., node, python, go, etc.)
-          release-type: node
+          release-type: maven
